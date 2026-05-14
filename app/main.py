@@ -5,7 +5,7 @@ def main():
 
     incident_id = "INC-001"
 
-    description = "User cannot reset password"
+    description = "Corporate email is not working"
 
     response = classify_incident(
         incident_id=incident_id,
